@@ -1,7 +1,7 @@
 # Download
 
-Windows: sigreader-v1.6.0.5.zip
-MacOS:    sigreader-v1.6.0.5.app.zip
+Windows: sigreader-v1.6.0.7.zip
+MacOS:    sigreader-v1.6.0.7.app.zip
 
 # Introduction
 
