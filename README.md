@@ -1,8 +1,8 @@
 # Download
 
-Windows: sigreader-v1.6.0.7.zip
+Windows: [sigreader-v1.6.0.7.zip](https://github.com/idealsu/sigreader/releases/download/sigreader-v1.6.0.7/SigReader-v1.6.0.7.zip)
 
-MacOS:    sigreader-v1.6.0.7.app.zip
+MacOS:    [sigreader-v1.6.0.7.app.zip](https://github.com/idealsu/sigreader/releases/download/sigreader-v1.6.0.7/SigReader-v1.6.0.7.app.zip)
 
 # Introduction
 
